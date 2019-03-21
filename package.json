@@ -1,0 +1,26 @@
+{
+  "name": "lambda-hummus",
+  "version": "1.0.0",
+  "description": "Hummus binaries that can be used in Lambda that hosts Node 6.10.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CherryCircle/lambda-hummus.git"
+  },
+  "main": "install.js",
+  "scripts": {
+    "preinstall": "npm install extract-zip",
+    "install": "node install.js"
+  },
+  "keywords": [
+    "lambda-hummus",
+    "hummus"
+  ],
+  "readmeFilename": "README.md",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "dependencies": {
+    "extract-zip": "^1.6.7"
+  },
+  "engines": {
+    "node": ">= 8.10.0"
+  }
+}
