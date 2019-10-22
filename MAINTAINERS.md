@@ -10,3 +10,4 @@ Steps:
     1. `zip a hummus.node.zip hummus.node`
 1. Update package.json with the new version info
 1. Publish it
+    1. `npm publish`
