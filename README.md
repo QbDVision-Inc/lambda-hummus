@@ -9,3 +9,7 @@ copy node_modules/lambda-hummus/binding/hummus.node node_modules/hummus/binding/
 ```
 
 And then deploy your lambda function as you would normally.
+
+# Version history:
+1. Use Version 2 for AWS Lambda Node 8.10.0+
+1. Use Version 3 for AWS Lambda Node 10.16.3+

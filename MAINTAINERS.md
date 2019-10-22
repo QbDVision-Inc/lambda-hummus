@@ -8,6 +8,10 @@ Steps:
     1. `cp node_modules/hummus/binding/hummus.node /mnt/C/projects/lambda-hummus/binding/hummus.node`
 1. Zip it up
     1. `zip a hummus.node.zip hummus.node`
+1. Delete the unzipped version
+    1. `del hummus.node`
 1. Update package.json with the new version info
 1. Publish it
     1. `npm publish`
+1. Commit and push your changes
+1. Create [a new release on GitHub](https://github.com/CherryCircle/lambda-hummus/releases/new)
