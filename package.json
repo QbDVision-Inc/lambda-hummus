@@ -1,7 +1,7 @@
 {
   "name": "lambda-hummus",
-  "version": "3.0.2",
-  "description": "Hummus 1.0.37 binaries that can be used in Lambda that were built on Node 10.16.3",
+  "version": "4.0.0",
+  "description": "Hummus 1.0.108 binaries that can be used in Lambda that were built on Node 12.18.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/CherryCircle/lambda-hummus.git"
@@ -21,6 +21,6 @@
     "extract-zip": "^2.0.1"
   },
   "engines": {
-    "node": ">= 10.16.3"
+    "node": ">= 12.18.2"
   }
 }
