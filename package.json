@@ -1,6 +1,6 @@
 {
   "name": "lambda-hummus",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Hummus 1.0.37 binaries that can be used in Lambda that were built on Node 10.16.3",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "readmeFilename": "README.md",
   "license": "GNU GENERAL PUBLIC LICENSE",
   "dependencies": {
-    "extract-zip": "^1.6.7"
+    "extract-zip": "^2.0.1"
   },
   "engines": {
     "node": ">= 10.16.3"
