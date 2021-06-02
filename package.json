@@ -1,6 +1,6 @@
 {
   "name": "lambda-hummus",
-  "version": "5.0.0",
+  "version": "5.0.3",
   "description": "Hummus 1.0.108 binaries that can be used in Lambda that were built on Node 14.17.0",
   "repository": {
     "type": "git",
