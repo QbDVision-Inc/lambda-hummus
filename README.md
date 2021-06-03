@@ -15,4 +15,4 @@ And then deploy your lambda function as you would normally.
 1. Use Version 2 for AWS Lambda Node 8.10.0+
 2. Use Version 3 for AWS Lambda Node 10.16.3+
 3. Use Version 4 for AWS Lambda Node 12.18.2+
-3. Use Version 5.0.3 for AWS Lambda Node 14.17.0+
+3. Use Version 5.0.4 for AWS Lambda Node 14.17.0+
