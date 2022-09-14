@@ -1,3 +1,7 @@
+# Archived
+This repository has been archived. Please use https://github.com/QbDVision-Inc/lambda-muhammara instaed.
+
+-------
 # lambda-hummus
 
 This repository contains only the pre-built binary for running hummus in an AWS Lambda function.  This is so you can deploy hummus to a Lambda function from a Windows machine.  
